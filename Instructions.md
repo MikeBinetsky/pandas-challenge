@@ -41,9 +41,9 @@ Your final report should include each of the following:
 
 ### Gender Demographics
 
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
+* [DONE] Percentage and Count of Male Players
+* [DONE] Percentage and Count of Female Players
+* [DONE] Percentage and Count of Other / Non-Disclosed
 
 ### Purchasing Analysis (Gender)
 
