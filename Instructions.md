@@ -45,13 +45,13 @@ Your final report should include each of the following:
 * [DONE] Percentage and Count of Female Players
 * [DONE] Percentage and Count of Other / Non-Disclosed
 
-### Purchasing Analysis (Gender)
+[DONE] ### Purchasing Analysis (Gender)
 
-* The below each broken by gender
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Gender
+* [DONE] The below each broken by gender
+  * [DONE] Purchase Count
+  * [DONE] Average Purchase Price
+  * [DONE] Total Purchase Value
+  * [DONE] Average Purchase Total per Person by Gender
 
 ### Age Demographics
 
